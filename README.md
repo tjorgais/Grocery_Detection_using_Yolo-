@@ -21,9 +21,8 @@ For detailed experiment results and analysis, please refer to the provided Colab
 ![image](https://github.com/tjorgais/Grocery_Detection_using_Yolo-/assets/42938890/a11644ad-c10a-469b-b024-b34bab4cba27)
 
 
-### performance with scaled-yolov4
-https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/results.png
-https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/test_batch0_pred.jpg
+
+
 
 
 
