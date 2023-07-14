@@ -16,13 +16,14 @@ Sample training performance can be found in the train directory.
 ## Experiment Results
 For detailed experiment results and analysis, please refer to the provided Colab notebook. It contains comprehensive information about the experiment setup, model performance, and insights gained from the analysis.
 ### performance with Yolov8
-![image](https://github.com/tjorgais/Grocery_Detection_with_Yolo/assets/42938890/4e12fd8e-64b4-4705-8594-853d8084a609)
-![image](https://github.com/tjorgais/Grocery_Detection_with_Yolo/assets/42938890/ecf80cab-9570-44b6-a9fe-3248aeaf5c92)
-![image](https://github.com/tjorgais/Grocery_Detection_with_Yolo/assets/42938890/4d45d348-eabf-4b86-b6a2-bc0e0cdeb19d)
+![image](https://github.com/tjorgais/Grocery_Detection_using_Yolo-/assets/42938890/619606b9-24d6-45d6-97b7-058052d4b4d0)
+![image](https://github.com/tjorgais/Grocery_Detection_using_Yolo-/assets/42938890/e6a24a3d-c19e-4a35-9f32-c2b330b9c55a)
+![image](https://github.com/tjorgais/Grocery_Detection_using_Yolo-/assets/42938890/a11644ad-c10a-469b-b024-b34bab4cba27)
+
 
 ### performance with scaled-yolov4
-![image](https://github.com/tjorgais/Grocery_Detection_with_Yolo/assets/42938890/1e13b5e4-b309-45b2-ae51-75946ab33113)
-![image](https://github.com/tjorgais/Grocery_Detection_with_Yolo/assets/42938890/cef9a848-f32d-45d3-bc41-bf09dd1e9997)
+https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/results.png
+https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/test_batch0_pred.jpg
 
 
 
